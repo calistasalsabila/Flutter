@@ -14,7 +14,6 @@ You'll find:
 - ✍️ **Quick clarifications** – Short explanations based on my confusion at the moment
 - ⚡ **Side explorations** – Things that popped into my head and needed answers *right then and there*
 - 🔄 **Cross-language comparisons** – Comparing how Java, Python, and Dart handle the same concept
-- 💬 **Jip's Prof-level Answers** – My AI assistant giving me deep but digestible explanations (thanks, Jip!)
 
 These files are named by sequence or context, not topic, so don't expect a linear learning path. This folder is **not** for teaching others, but a personal space to track how my thinking evolves. 🤓
 
