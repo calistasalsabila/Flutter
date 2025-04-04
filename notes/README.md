@@ -1,6 +1,6 @@
 # 📂 Notes Folder Overview
 
-> “Learning isn’t always linear. Sometimes the best ideas come from asking the weirdest questions.” – is.cal\_
+> “Learning isn’t always linear. Sometimes the best ideas come from asking the weirdest questions.” 
 
 ## 🌟 Purpose
 
